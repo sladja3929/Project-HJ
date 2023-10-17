@@ -1,13 +1,11 @@
 # Project-HJ
-간단한 2D 플랫포머 게임입니다. [from Pandora Cube game maker club]
 
-## 목차
-+ 개요
-+ 팀 소개
-+ 환경
+
+<img width="641" alt="캡처" src="https://github.com/sladja3929/Project-HJ/assets/43125863/ae5257a0-9c07-4eb2-95ce-fc80141dbcc6">
+
 
 ## 개요
-간단한 2D 플랫포머 게임입니다.
+간단한 2D 플랫포머 게임입니다. [from Pandora Cube game maker club]
 
 
 ## 팀 소개
